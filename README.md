@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Prashant 👋
 
-<!--
-**wishfulthinker19/wishfulthinker19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Business Analyst | Finance & Credit Analytics | Python · SQL · Excel
+B.Sc. Life Science graduate from Faridabad, India.
 
-Here are some ideas to get you started:
+## What I'm working on
+Credit-risk analytics: I recently completed Tata's GenAI-Powered Data Analytics job simulation (via Forage), covering EDA, a predictive model plan and an AI collections strategy for a credit dataset. The project write-up is coming soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python (pandas, scikit-learn) · SQL · Excel · Data cleaning · Exploratory data analysis
+
+## Currently learning
+Harvard CS50P (Python) and CS50SQL
+
+## Open to
+Business Analyst and Data Analyst roles in finance and fintech
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/prashant-panchal19)
